@@ -23,7 +23,7 @@ The Dracula theme uses the following colors:
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/YOUR_USERNAME/omarchy-dracula-theme
+omarchy-theme-install https://github.com/guibes/omarchy-dracula-theme
 ```
 
 ## Included Configurations
