@@ -1,0 +1,6 @@
+@define-color selected-text #bd93f9; /* Highlight color - Purple */
+@define-color text #f8f8f2; /* Main text color */
+@define-color base #282a36; /* Main background */
+@define-color border #6272a4; /* Border color - Comment */
+@define-color foreground #f8f8f2; /* Main text color */
+@define-color background #282a36; /* Main background */
